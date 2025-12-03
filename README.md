@@ -81,7 +81,7 @@
   <img title="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50"/>
   <img title="Google Cybersecurity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" width="50"/>
   <img title="ISC2" src="https://cdn.simpleicons.org/isc2" width="50"/>
-  <img title="Cisco" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cisco/cisco-original.svg" width="50"/>
+  <img title="Cisco" src="https://cdn.simpleicons.org/cisco" width="50"/>
 </p>
 
 ---
@@ -89,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francis-zachary-domingo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francis-zachary-domingo&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
