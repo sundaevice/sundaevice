@@ -86,15 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=francis-zachary-domingo&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francis-zachary-domingo&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
