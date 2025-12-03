@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=200&section=header&text=Francis%20Zachary%20Domingo&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=160&section=header&text=Hello!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h2 align="center">BS Information Technology Student | Cybersecurity | Cloud Computing | IT Support</h2>
