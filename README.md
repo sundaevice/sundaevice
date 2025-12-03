@@ -45,8 +45,8 @@
 ### 🔐 Cybersecurity & DevOps Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Burp_Suite_Logo.svg" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/ZAP_Logo.png" width="50" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/owasp.svg" width="45" />
 </p>
 
 ---
