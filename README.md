@@ -1,147 +1,57 @@
-# Hi, I'm Francis Zachary Domingo 👋
+## 👨‍💻 Profile Summary
 
-🎓 BS Information Technology Student | Mapúa University  
-💻 Aspiring Cybersecurity & Cloud Computing Professional  
-📍 Makati City, Philippines  
-
----
-
-## 🚀 About Me
-
-I am a motivated **Bachelor of Science in Information Technology student at Mapúa University** with a strong academic record as a **President’s Lister and Dean’s Lister**. I specialize in **cybersecurity, cloud computing, system development, and IT technical support** with hands-on experience in system configuration, vulnerability testing, and web-based applications.
-
-I am currently seeking an **Internship / OJT opportunity** where I can apply my technical skills, gain industry experience, and grow as an IT professional.
+- 🎓 BS Information Technology student at Mapúa University  
+- 🔐 Cybersecurity-focused with hands-on vulnerability testing experience  
+- ☁️ Interested in Cloud Computing & DevOps technologies  
+- 🖥 Experienced in IT support, diagnostics, and system maintenance  
+- 🚀 Currently seeking Internship / OJT opportunities  
 
 ---
 
-## 🎯 Areas of Interest
+## 🧠 Core Technology Stack
 
-- Cybersecurity & Ethical Hacking  
-- Cloud Computing & DevOps  
-- Web & System Development  
-- IT Support & Hardware Troubleshooting  
-- Vulnerability Assessment & Penetration Testing  
-- AI Applications & Data Platforms  
-
----
-
-## 🛠 Technical Skills
-
-### Programming Languages
-- HTML, CSS, JavaScript, PHP
-- Java, Python, C++
-- SQL
-
-### Cybersecurity & Tools
-- Burp Suite
-- OWASP ZAP
-- Docker
-- Figma
-- Notepad++
-  
-### Databases & Platforms
-- MySQL
-- Oracle
-- MySQL Workbench
-
-### IDEs & Development Tools
-- IntelliJ IDEA
-- Eclipse
-- Apache NetBeans IDE 22
-- Visual Studio Code
-- Dev-C++
-
-### IT Support & Hardware
-- System configuration
-- PC diagnostics
-- Hardware troubleshooting
-- OS installations and maintenance
+### 💻 Programming & Scripting
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🧑‍💻 Academic Projects
-
-### 🔐 OWASP Juice Shop Penetration Testing
-Conducted vulnerability testing using **Burp Suite and OWASP ZAP**.  
-Identified and documented:
-- SQL Injection  
-- Cross-Site Scripting (XSS)  
-- Authentication flaws  
-Provided remediation strategies for security hardening.
-
-### 🛒 Enterprise POS System
-Developed a POS system with:
-- Sales analytics dashboard
-- Inventory management
-- Real-time reporting features
-
-### 🏠 HomeHub AI Web Application
-Built a property management system with:
-- Admin dashboard
-- User authentication
-- AI-powered features
-- Tenant and property management modules
-
-### 🍕 Pizza Ordering System (Java)
-Created an interactive ordering system in Eclipse featuring:
-- Customizable orders
-- Real-time price computation
-- User-friendly interface
+### 🗄 Databases & Cloud Platforms
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ---
 
-## 🏆 Certifications
-
-- Oracle Certified DevOps Professional  
-- Oracle AI Vector Search Professional  
-- Oracle Generative AI Professional  
-- Oracle Cloud Infrastructure (OCI) Foundations Associate  
-- Oracle Data Platform Associate  
-- Oracle AI Foundations Associate  
-- Google Cybersecurity  
-- Certified in Cybersecurity (ISC2)  
-- CCNA: Enterprise Networking, Security, and Automation  
-- Ethical Hacking (LearnKartS)  
-- Secure Coding Practices – University of California, Davis  
-- Six Sigma White Belt  
+### 🧰 Development Environments
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=flat-square&logo=apache&logoColor=white)
+![Dev-C++](https://img.shields.io/badge/Dev--C++-blue?style=flat-square)
 
 ---
 
-## 📈 Achievements
-
-- President’s Lister (2023–2025)
-- Dean’s Lister (2023–2025)
-- Need-Based Academic Scholar (Mapúa University)
-- STEM Graduate with Honors – St. John’s Institute
+### 🔐 Security & DevOps
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 👨‍🏫 Leadership Experience
-
-### Robotics Club President – St. John’s Institute
-- Led robotics projects and workshops  
-- Mentored members in design and programming  
-- Managed events and competitions  
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: zachdomingojavellana@gmail.com  
-- 🔗 LinkedIn: [Francis Zachary Domingo](https://www.linkedin.com/in/francis-zachary-domingo-684795321/)  
-- 📍 Location: Makati City, Philippines  
+### 🖥 IT Support & Systems
+![Windows](https://img.shields.io/badge/Windows_Administration-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Basics-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Hardware](https://img.shields.io/badge/Hardware_Troubleshooting-gray?style=flat-square)
+![Networking](https://img.shields.io/badge/Basic_Networking-blue?style=flat-square)
 
 ---
 
-## ✅ Internship Goals
-
-I am actively looking for an opportunity to:
-- Apply cybersecurity knowledge in real environments
-- Gain hands-on IT support experience
-- Learn enterprise systems
-- Work in cloud and DevOps environments
-- Contribute to meaningful projects
-
----
-
-⭐ *Feel free to explore my repositories and projects below. I'm always open to collaboration and learning opportunities!*  
+### 🎨 UI / Productivity Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=black)
