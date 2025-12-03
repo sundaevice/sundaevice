@@ -1,7 +1,8 @@
 <p align="center">
-  👋 Hello! I'm **Francis Zachary Domingo**  
-  BS Information Technology Student | Cybersecurity | Cloud Computing | IT Support
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1AFF&height=160&section=header&text=Francis%20Zachary%20Domingo&fontSize=32&fontColor=ffffff&animation=fadeIn"/>
 </p>
+
+<h2 align="center">BS Information Technology Student | Cybersecurity | Cloud Computing | IT Support</h2>
 
 ---
 
