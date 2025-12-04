@@ -44,7 +44,7 @@
 
 ## 📜 Certifications
 
-![Oracle Certified](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![Oracle Certified](https://custom-icon-badges.demolab.com/badge/Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=ffffff)
 ![ISC2 Certified](https://img.shields.io/badge/ISC2%20Certified-006B5C?style=for-the-badge&logo=isc2&logoColor=ffffff)
 ![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=ffffff)
