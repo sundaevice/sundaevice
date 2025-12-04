@@ -20,77 +20,63 @@
 
 ### 💻 Programming Languages
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL/MySQL" width="40" height="40"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-0A1AFF?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-0A1AFF?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A1AFF?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-0A1AFF?style=for-the-badge&logo=php&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-0A1AFF?style=for-the-badge&logo=java&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0A1AFF?style=for-the-badge&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-0A1AFF?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![SQL / MySQL](https://img.shields.io/badge/SQL%20%2F%20MySQL-0A1AFF?style=for-the-badge&logo=mysql&logoColor=ffffff)
 
 ---
 
 ### 🗄 Databases & Platforms
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/oracle.svg" title="Oracle DB" width="40" height="40"/>
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-0A1AFF?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Oracle DB](https://img.shields.io/badge/Oracle%20DB-0A1AFF?style=for-the-badge&logo=oracle&logoColor=ffffff)
 
 ---
 
 ### 🧑‍💻 Development Tools & IDEs
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="IntelliJ IDEA" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse IDE" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" title="Apache NetBeans" width="40" height="40"/>
-</p>
+![VS Code](https://img.shields.io/badge/VS%20Code-0A1AFF?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-0A1AFF?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-0A1AFF?style=for-the-badge&logo=eclipseide&logoColor=ffffff)
+![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-0A1AFF?style=for-the-badge&logo=apachenetbeans&logoColor=ffffff)
 
 ---
 
 ### 🔐 Cybersecurity & DevOps
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/burpsuite.svg" title="Burp Suite" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/owasp.svg" title="OWASP ZAP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-</p>
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0A1AFF?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0A1AFF?style=for-the-badge&logo=owasp&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0A1AFF?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 ---
 
 ### 🖥 IT Support & Systems
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="Windows" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/raspberrypi.svg" title="Raspberry Pi" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cisco.svg" title="Cisco" width="40" height="40"/>
-</p>
+![Windows](https://img.shields.io/badge/Windows-0A1AFF?style=for-the-badge&logo=windows&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-0A1AFF?style=for-the-badge&logo=linux&logoColor=ffffff)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-0A1AFF?style=for-the-badge&logo=raspberrypi&logoColor=ffffff)
+![Cisco](https://img.shields.io/badge/Cisco-0A1AFF?style=for-the-badge&logo=cisco&logoColor=ffffff)
 
 ---
 
 ### 🎨 Design & Utility Tools
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/figma.svg" title="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/notepadplusplus.svg" title="Notepad++" width="40" height="40"/>
-</p>
+![Figma](https://img.shields.io/badge/Figma-0A1AFF?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-0A1AFF?style=for-the-badge&logo=notepadplusplus&logoColor=ffffff)
 
 ---
 
 ## 📜 Certifications
 
-<p>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/oracle.svg" title="Oracle Certified" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/google.svg" title="Google Cybersecurity" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/isc2.svg" title="ISC2 Certified" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/cisco.svg" title="Cisco CCNA" width="40" height="40"/>
-</p>
+![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-0A1AFF?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-0A1AFF?style=for-the-badge&logo=google&logoColor=ffffff)
+![ISC2 Certified](https://img.shields.io/badge/ISC2%20Certified-0A1AFF?style=for-the-badge&logo=isc2&logoColor=ffffff)
+![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-0A1AFF?style=for-the-badge&logo=cisco&logoColor=ffffff)
 
 ---
 
@@ -98,9 +84,9 @@
 
 <p align="center">
   <a href="mailto:zachdomingojavellana@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" title="Email" width="40" height="40"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-0A1AFF?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
   <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" title="LinkedIn" width="40" height="40"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A1AFF?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
   </a>
 </p>
