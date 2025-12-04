@@ -1,5 +1,5 @@
 <p align="center">
-   <h1> 👋 Hello There, I'm Francis Zachary Domingo </h1>
+   <h1 align="center"> <strong>👋 Hello There, I'm Francis Zachary Domingo </strong> </h1>
 </p>
 
 <h2 align="center">BS Information Technology Student | Cybersecurity | Cloud Computing | IT Support</h2>
