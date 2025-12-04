@@ -52,7 +52,7 @@
 ---
 
 ### 🖥 IT Support & Systems
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Hardware Support](https://img.shields.io/badge/Hardware_Support-6D6D6D?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-005073?style=for-the-badge&logo=cisco&logoColor=white)
