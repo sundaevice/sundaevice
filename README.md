@@ -54,23 +54,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:zachdomingojavellana@gmail.com" style="text-decoration:none;">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
-      height="32"
-      style="vertical-align:middle; margin-right:10px;"
-    />
-    <strong>zachdomingojavellana@gmail.com</strong>
+  <a href="mailto:zachdomingojavellana@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/" style="text-decoration:none;">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
-      height="32"
-      style="vertical-align:middle; margin-right:10px;"
-    />
-    <strong>linkedin.com/in/francis-zachary-domingo</strong>
+  <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
