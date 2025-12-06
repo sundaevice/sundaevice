@@ -40,7 +40,6 @@
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepad%2b%2b&logoColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=ffffff)
 
-
 ---
 
 ## 📜 Certifications
@@ -55,10 +54,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:zachdomingojavellana@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  <a href="mailto:zachdomingojavellana@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" style="vertical-align:middle; margin-right:8px;">
+    <strong>zachdomingojavellana@gmail.com</strong>
   </a>
-  <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" style="vertical-align:middle; margin-right:8px;">
+    <strong>linkedin.com/in/francis-zachary-domingo</strong>
   </a>
 </p>
