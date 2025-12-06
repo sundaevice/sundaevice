@@ -55,12 +55,22 @@
 
 <p align="center">
   <a href="mailto:zachdomingojavellana@gmail.com" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="28" style="vertical-align:middle; margin-right:8px;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+      height="32"
+      style="vertical-align:middle; margin-right:10px;"
+    />
     <strong>zachdomingojavellana@gmail.com</strong>
   </a>
+
   <br><br>
+
   <a href="https://www.linkedin.com/in/francis-zachary-domingo-684795321/" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" style="vertical-align:middle; margin-right:8px;">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
+      height="32"
+      style="vertical-align:middle; margin-right:10px;"
+    />
     <strong>linkedin.com/in/francis-zachary-domingo</strong>
   </a>
 </p>
