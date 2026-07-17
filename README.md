@@ -7,7 +7,7 @@
 ## 👨‍💻 Profile Summary
 
 - 🎓 BS Information Technology student at Mapúa University, specializing in **Cybersecurity** (GWA 1.44 | President's & Dean's Lister)
-- 🧪 Quality Assurance Intern at **EastWest Bank** — functional & regression testing of banking applications
+- 🧪 Was a Quality Assurance Intern at **EastWest Bank** — functional & regression testing of banking applications
 - 🔐 Focused on application security, vulnerability assessment, and penetration testing
 - ☁️ Interested in cloud computing and DevOps
 - 🖥 Experienced in IT support and system maintenance
