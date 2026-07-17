@@ -17,7 +17,7 @@
 ## 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://sundaevice.github.io/portfolio/" target="_blank">
+  <a href="https://sundaevice.github.io/portfolio-/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
