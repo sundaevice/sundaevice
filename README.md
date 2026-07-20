@@ -7,7 +7,7 @@
 ## 👨‍💻 Profile Summary
 
 - 🎓 BS Information Technology student at Mapúa University, specializing in **Cybersecurity** (GWA 1.44 | President's & Dean's Lister)
-- 🧪 Was a Quality Assurance Intern at **EastWest Bank** — functional & regression testing of banking applications
+- 🧪 Quality Assurance Intern at **EastWest Bank** — functional & regression testing of banking applications, test automation and test case/script creation using **Katalon Studio** and **Azure DevOps**
 - 🔐 Focused on application security, vulnerability assessment, and penetration testing
 - ☁️ Interested in cloud computing and DevOps
 - 🖥 Experienced in IT support and system maintenance
@@ -45,6 +45,9 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=ffffff)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=for-the-badge&logo=owasp&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Katalon Studio](https://img.shields.io/badge/Katalon%20Studio-0E8AC8?style=for-the-badge&logo=katalon&logoColor=ffffff)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=ffffff)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-4B32C3?style=for-the-badge&logo=testcafe&logoColor=ffffff)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-FFFFFF?style=for-the-badge&logo=windows&logoColor=0078D4)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000000)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=ffffff)
